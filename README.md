@@ -1,4 +1,4 @@
-protocol-monads
+Comonads
 ===============
 
 A protocol based comonad implementation for clojure
